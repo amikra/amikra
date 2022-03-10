@@ -6,7 +6,7 @@ Please fork this repository don't import code
 Made with Python3
 (C) @amikra
 Copyright permission under MIT License
-License -> https://github.com/amikr/amikra/blob/main/LICENSE
+License -> https://github.com/amikra/amikra
 ```
 
 
